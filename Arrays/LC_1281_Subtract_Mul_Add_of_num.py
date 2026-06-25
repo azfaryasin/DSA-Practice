@@ -10,3 +10,5 @@ class Solution(object):
             m*=res
             x=x//10
         return m-s
+
+
