@@ -5,6 +5,7 @@ class Solution(object):
         for i in num:
             if i == "1":
                 res+=1
+                
             else:
                 continue
         return res
