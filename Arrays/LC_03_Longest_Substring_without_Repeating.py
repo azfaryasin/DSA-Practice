@@ -10,3 +10,4 @@ class Solution(object):
             seen.add(s[right])
             res = max(res, right - left + 1)
         return res
+
